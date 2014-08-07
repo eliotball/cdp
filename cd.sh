@@ -1,6 +1,6 @@
 arg=$1
 
-if [[ $1 =~ ^\.\.[^\]+$ ]]
+if [[ $1 =~ ^\.\.[^/]+$ ]]
 then
   current=`pwd`
   search=`echo $1 | sed 's/^..//g'`
