@@ -23,6 +23,6 @@ Performs a search around your current location for the nearest directory (by jum
 Installation
 ------------
 
-Put `cdp.sh` somewhere on your system, and add this line to your `.bashrc`:
+Put `cd.sh` somewhere on your system, and add this line to your `.bashrc`:
 
-    alias cd=". cdp.sh"
+    alias cd=". cd.sh"
