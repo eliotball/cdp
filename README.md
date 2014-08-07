@@ -18,7 +18,7 @@ Jump to the nearest named directory:
 
     cd ,name
 
-Performs a search around your current location for the nearest directory (by jumps on the file tree) called `name`. This is pretty slow but should work well whne the distance is low, such as when you're deep inside some source code directory structure.
+Performs a search around your current location for the nearest directory (by jumps on the file tree) called `name`. This is pretty slow but should work well when the distance is low, such as when you're deep inside some source code directory structure.
 
 Installation
 ------------
