@@ -1,7 +1,7 @@
 cd+
 ===
 
-Change directories like a pro. Prepare for your productivity to at-least double.
+Change directories like a pro. Prepare for >2x productivity.
 
 Functionality
 -------------
