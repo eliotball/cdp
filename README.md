@@ -1,4 +1,4 @@
-cdp
+cd+
 ===
 
 Change directories like a pro.
